@@ -24,10 +24,12 @@ There are two ways that you can do this. First, you can simply raise an issue (f
 
 You can also edit the lesson (find the paper and pen icon at the top right side of your lesson page) in Learn. And once you click that you'll be able to add and submit your edits!
 
-### Other Ways to to Help Improve These Videos
+### Other Ways to Help Improve These Videos
 
 Do you think this video would be better if it were somewhere else in the curriculum? Raise an issue and tell us where you think it should go.
 
 Any other comments or feedback you have? Raise an issue and let us know.
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/orm-video-review-building-a-metaprogrammed-abstract-orm'>ORM Video Review: Building a Metaprogrammed Abstract ORM</a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/orm-video-review-building-a-metaprogrammed-abstract-orm'>Video Review: Building a Metaprogrammed Abstract ORM</a> on Learn.co and start learning to code for free.</p>
